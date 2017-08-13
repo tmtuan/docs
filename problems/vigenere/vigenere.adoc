@@ -3,6 +3,7 @@ title: Vigenère
 ---
 
 = Vigenère
+:stem: latexmath
 
 == tl;dr
 
